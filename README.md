@@ -5,11 +5,11 @@
   <span>Project Live Demo -> () </span>
   <a href=" https://hamidamini1991.github.io/Hospital/" target="_blank">Demo</a>
   |
-![slider2](https://github.com/HamidAmini1991/Hospital/assets/157976852/fe0fa3e8-bfcb-496f-b013-b792ca6a151d)
+
 </h4>
 
 ### Project Preview
-
+![slider2](https://github.com/HamidAmini1991/Hospital/assets/157976852/fe0fa3e8-bfcb-496f-b013-b792ca6a151d)
 
 
 
